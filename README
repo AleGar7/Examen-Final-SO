@@ -1,0 +1,16 @@
+# Examen Final SO
+
+Este es el repositorio para el examen final de Sistemas Operativos.
+
+## Comandos importantes de Git
+
+1. `git init` - Inicializa un nuevo repositorio Git.
+2. `git clone <url>` - Clona un repositorio remoto en tu máquina local.
+3. `git add <archivo>` - Añade archivos al área de preparación (staging area).
+4. `git commit -m 'mensaje'` - Crea un commit con los archivos preparados.
+5. `git status` - Muestra el estado de los archivos en el repositorio.
+6. `git pull` - Obtiene y fusiona los cambios desde un repositorio remoto.
+7. `git push` - Envía los cambios locales a un repositorio remoto.
+8. `git branch` - Lista, crea o elimina ramas.
+9. `git checkout <rama>` - Cambia a una rama diferente.
+10. `git merge <rama>` - Fusiona una rama con la rama actual.
